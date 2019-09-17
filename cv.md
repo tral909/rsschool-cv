@@ -23,3 +23,15 @@ My strengths are ability to fast learn, curiosity, interest in IT.
     </body>
 </html>
 ```
+####Experience
+Online courses:
+* [Python, basics and appliance](https://stepik.org/certificate/a43b492480f0cfdd1c5e03e9a405e9ae4988a175.pdf)
+* [Python programming](https://stepik.org/certificate/3fd6abe7d54661ec35caeb79258fe2d9fd2e4856.pdf)
+* [WEB technologies](https://stepik.org/certificate/c28005e19c191b4845b6f71a189b90ce7c34e224.pdf)
+
+####Education
+Moscow university of chemical technology of Russia
+IT department (Information systems and technologies)
+Specialist, 2015
+####English
+Pre Intermediate
