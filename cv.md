@@ -1,7 +1,7 @@
 # Resume
 
 ## Name
-John, Beginner Web Masta
+Egorov Roman
 
 ## Contact info
 * email: john@webmasta.com
